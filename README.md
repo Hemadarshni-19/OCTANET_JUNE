@@ -1,3 +1,3 @@
 # OCTANET_JUNE
 
-This is a responsive landing page using technologies are HTML,CSS,JS .It is first OCTANET_JUNE task 
+This is a stunning and user-friendly e-learning landing page using technologies are HTML,CSS and JS. It is first OCTANET_JUNE task 
